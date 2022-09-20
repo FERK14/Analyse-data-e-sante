@@ -1,0 +1,2 @@
+# Analyse-data-e-sante
+Concevoir une application au service de la santé publique   Proposer des  idées innovantes d’applications en lien avec l'alimentation à partir des analyses univariées, bivariées et multivariées, après avoir nettoyé les données.   Compétences nécessaires :   Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes; Effectuer des opérations de nettoyage sur des données structurées; Effectuer une analyse statistique multivariée; Effectuer une analyse statistique univariée;
